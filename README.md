@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Alpana!<br>🔭 I’m currently working on Data Analytics.<br>🤝 I’m looking to collaborate on Data Science and Machine Learning<br>🌱 I’m currently learning supervised ML techniques.<br>💬 Connect with me: alpanasahu@gmail.com
+## Hi, I'm Alpana!<br>🔭 I’m currently working on Data Analytics.<br>🤝 I’m looking to collaborate on Data Science and Machine Learning<br>🌱 I’m currently learning supervised ML techniques.<br>💬 Connect with me: alpanasahu@gmail.com<br>My Resume: https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672216a47ca4c4119e752b72
 
 
 ## 🌐 Socials:
